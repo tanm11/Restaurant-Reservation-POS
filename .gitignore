@@ -1,0 +1,9 @@
+**/.vscode/*
+*.class
+**/.idea/*
+**/out/*
+CZ2002 Project.iml
+CZ2002-RRPSS.iml
+**/data/*
+**/bin/*
+
